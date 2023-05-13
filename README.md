@@ -1,1 +1,1 @@
-# EZ_Connect
+# EZ_Connect. Windows and Mobile application
